@@ -2,6 +2,14 @@ package com.oracle;
 
 public class MainClass {
 	
-	//System.out.println("hello");
+	
+	public static void main(String args[])
+	{
+		System.out.println("hello");
+		
+		//System.out.println("dnbsnbd");
 
+	}
+	
+	
 }
